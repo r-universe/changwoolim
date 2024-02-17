@@ -5,3 +5,6 @@
 [submodule "emailjsr"]
 	path = emailjsr
 	url = https://github.com/changwoolim/emailjsr
+[submodule "executablePackeR"]
+	path = executablePackeR
+	url = https://github.com/changwoolim/executablepacker
